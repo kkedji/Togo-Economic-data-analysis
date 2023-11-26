@@ -1,6 +1,7 @@
-Togo Economic and Demographic Trends Analysis
-Overview
+
 Welcome to the Togo Economic and Demographic Trends Analysis project! 
+
+
 This repository contains a comprehensive analysis of Togo's economic and demographic data, spanning from 1960 to 2022. The project delves into various facets, including GDP growth, demographic shifts, labor market dynamics, and the impact of foreign aid.
 
 Project Highlights
